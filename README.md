@@ -83,13 +83,10 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
    ```
 
 ---
-
-##  Usage
-
-## ▶️ Usage
+## Usage
 
 1. **Access the data**  
-   The raw dataset is stored on Google Drive. You can download it here: **[Drive Link]([https://drive.google.com/your-data-link](https://drive.google.com/file/d/1kwhkOTtzikQFhuRBF_RwgCAKdOa0AeTV/view?usp=drive_link))**
+   The raw dataset is stored on Google Drive. You can download it here: **[Drive Link](https://drive.google.com/file/d/1kwhkOTtzikQFhuRBF_RwgCAKdOa0AeTV/view?usp=drive_link)**
 
 2. **Access the report**  
    The detailed project report is available via a secured Google Drive link. Please request access here: **[Request Report Access]([https://drive.google.com/your-report-link](https://docs.google.com/document/d/1-LblGY6NcUy_iQvslUN9NwxlhLBZh8on/edit?usp=sharing&ouid=113317600828046355730&rtpof=true&sd=true))**
