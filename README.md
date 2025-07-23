@@ -21,7 +21,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
   - Ensemble: Hard & Soft Voting, Stacked Ensemble with Logistic Regression meta‑classifier  
 
 - **Explainability & Interpretability**  
-  - Global & local SHAP analysis to rank and visualize feature impact (e.g., `total_btc` is most influential) :contentReference[oaicite:2]{index=2}  
+  - Global & local SHAP analysis to rank and visualize feature impact (e.g., `total_btc` is most influential) :
   - Extraction of human‑readable “anomaly rules” from decision trees (e.g., `if total_btc > 96.6 & in_btc > 236.2 then Anomalous (98–100% confidence)`) 
 
 - **Deployment**  
@@ -36,7 +36,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
 .
 ├── README.md
 ├── data/
-│   └── bitcoin\_transactions.csv         # raw/processed dataset (if included)
+│   └── bitcoin\_transactions.csv         # raw
 ├── notebooks/
 │   └── Final\_codes.ipynb                # Jupyter notebook with all code
 ├── report/
@@ -69,7 +69,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
    pip install -r requirements.txt
    ```
 
-   **`requirements.txt`** should include (at minimum):
+   **`requirements.txt`** 
 
    ```
    pandas
