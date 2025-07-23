@@ -12,7 +12,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
 
 - **Data Balancing**  
   - Traditional under‑sampling: Random Under‑Sampling (RUS), NearMiss  
-  - Novel XGBCLUS under‑sampling algorithm :contentReference[oaicite:1]{index=1}  
+  - Novel XGBCLUS under‑sampling algorithm  
   - Over‑sampling: SMOTE, ADASYN  
   - Hybrid: SMOTEENN, SMOTETomek
 
@@ -22,10 +22,10 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
 
 - **Explainability & Interpretability**  
   - Global & local SHAP analysis to rank and visualize feature impact (e.g., `total_btc` is most influential) :contentReference[oaicite:2]{index=2}  
-  - Extraction of human‑readable “anomaly rules” from decision trees (e.g., `if total_btc > 96.6 & in_btc > 236.2 then Anomalous (98–100% confidence)`) :contentReference[oaicite:3]{index=3}  
+  - Extraction of human‑readable “anomaly rules” from decision trees (e.g., `if total_btc > 96.6 & in_btc > 236.2 then Anomalous (98–100% confidence)`) 
 
 - **Deployment**  
-  - Final stacked ensemble model hosted on Google Colab for real‑time/batch inference :contentReference[oaicite:4]{index=4}  
+  - Final stacked ensemble model hosted on Google Colab for real‑time/batch inference.
 
 ---
 
