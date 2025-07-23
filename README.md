@@ -48,7 +48,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30â€
 
 ---
 
-## âš™ Installation
+##  Installation
 
 1. **Clone the repo**  
    ```bash
@@ -84,7 +84,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30â€
 
 ---
 
-## â–¶ Usage
+##  Usage
 
 1. **Prepare the data**
 
