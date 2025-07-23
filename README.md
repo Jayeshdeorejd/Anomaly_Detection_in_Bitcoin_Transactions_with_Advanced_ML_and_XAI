@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30 million transactions, only 108 are labelled fraudulent :contentReference[oaicite:0]{index=0}. This project implements and evaluates multiple machine‑learning approaches—single and ensemble tree‑based models—combined with novel sampling techniques to detect anomalous Bitcoin transactions accurately while retaining interpretability through XAI (SHAP) and decision‑rule extraction.
+Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30 million transactions, only 108 are labelled fraudulent. This project implements and evaluates multiple machine‑learning approaches—single and ensemble tree‑based models—combined with novel sampling techniques to detect anomalous Bitcoin transactions accurately while retaining interpretability through XAI (SHAP) and decision‑rule extraction.
 
 ---
 
