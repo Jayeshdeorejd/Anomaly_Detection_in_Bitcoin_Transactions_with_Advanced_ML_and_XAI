@@ -86,21 +86,21 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
 
 ##  Usage
 
-1. **Prepare the data**
+## ▶️ Usage
 
-   * Place the cleaned dataset in `data/bitcoin_transactions.csv`.
+1. **Access the data**  
+   The raw dataset is stored on Google Drive. You can download it here: **[Drive Link]([https://drive.google.com/your-data-link](https://drive.google.com/file/d/1kwhkOTtzikQFhuRBF_RwgCAKdOa0AeTV/view?usp=drive_link))**
 
-2. **Open & run the notebook**
+2. **Access the report**  
+   The detailed project report is available via a secured Google Drive link. Please request access here: **[Request Report Access]([https://drive.google.com/your-report-link](https://docs.google.com/document/d/1-LblGY6NcUy_iQvslUN9NwxlhLBZh8on/edit?usp=sharing&ouid=113317600828046355730&rtpof=true&sd=true))**
 
+3. **Prepare the data**  
+   - After downloading, place the file in `data/bitcoin_transactions.csv`.
+
+4. **Open & run the notebook**  
    ```bash
    jupyter notebook notebooks/Final_codes.ipynb
-   ```
 
-   * Follow each cell to load data, apply sampling techniques, train models, run SHAP analyses, and extract rules.
-
-3. **Interactive deployment**
-
-   * The final stacked ensemble is demonstrated in Colab; simply open \[Colab link] and run.
 
 ---
 
