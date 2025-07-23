@@ -40,7 +40,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
 ├── notebooks/
 │   └── Final\_codes.ipynb                # Jupyter notebook with all code
 ├── report/
-│   └── Group 3 Report.pdf               # full project write‑up
+│   └── Project Report.pdf               # full project write‑up
 ├── requirements.txt                     # Python dependencies
 └── LICENSE
 
