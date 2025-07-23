@@ -1,4 +1,4 @@
-```markdown
+
 # Anomaly Detection in Bitcoin Blockchain Transactions with Advanced ML and XAI
 ---
 
@@ -31,7 +31,7 @@ Blockchain transactions, especially Bitcoin, are highly imbalanced: of over 30�
 
 ##  Repository Structure
 
-```
+
 
 .
 ├── README.md
